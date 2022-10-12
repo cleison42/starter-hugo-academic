@@ -5,8 +5,6 @@ avatar_filename: captura-de-tela-de-2022-10-12-12-19-44.png
 bio: "#CRM Analytics #Python #Marketing Automation"
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
 social:
   - icon: envelope
     icon_pack: fas
@@ -39,6 +37,4 @@ email: ""
 ---
 Cleison é especialista em CRM analytics com foco em Salesfoce.
 
-
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
