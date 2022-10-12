@@ -1,23 +1,17 @@
 ---
-# An instance of the About widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
 widget: about
-
-# Activate this widget? true/false
 active: true
-
-# This file represents a page section.
-headless: true
-
-# Order that this section appears on the page.
-weight: 20
-
-title: Biography
-
-# Choose the user profile to display
-# This should be the username (folder name) of a profile in your `content/authors/` folder.
-# See https://wowchemy.com/docs/get-started/#introduce-yourself
 author: admin
+widget_id: recent-posts
+headless: true
+weight: 20
+title: Biografia
+design:
+  background:
+    color: rgba(0, 0, 0, 0.31)
 ---
+Bacharel em Economia (2016) e Analise de Sistemas (2019). MBA em Data Science (2020) e graduando em Estatística (2024*). 
 
+Minha carreira é focada em dados e automação para marketing e CRM. Tenho trabalhado principalmente com Salesforce nos últimos 7 anos nas suas principais nuvens. Minha área de experiência é majoritariamente em instituições financeiras (seguros e bancos) e órgãos de pesquisa como IICA e CNI.
 
+Atualmente tenho estudado mais da área quantitativa de finanças voltado para o mercado financeiro.
