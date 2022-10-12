@@ -24,15 +24,15 @@ organizations:
     url: https://www.sicredi.com.br
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: MBA Data Science
+      institution: Universidade de São Paulo
+      year: ""
+    - course: Bacharelado em Economia
+      institution: Universidade de Brasilia
+      year: ""
+    - course: Bacharelado Analise e Desenvolvimento de Sistemas
+      institution: Centro Universitário UDF
+      year: ""
 superuser: true
 last_name: Bighetti
 highlight_name: true
