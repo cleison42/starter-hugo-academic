@@ -1,7 +1,7 @@
 ---
 title: Cleison Cavalcante
 role: Especialista em CRM Analytics
-avatar_filename: 1617213482790.jpeg
+avatar_filename: https://media-exp1.licdn.com/dms/image/C4E03AQFdEownQdQ1Qw/profile-displayphoto-shrink_200_200/0/1617213482790?e=1671062400&v=beta&t=OGjWpofv83usJPZRedTz3T3jB2Hcv5_nu-Vg9c0lNJ0
 bio: "#CRM Analytics #Python #Marketing Automation"
 interests:
   - Artificial Intelligence
