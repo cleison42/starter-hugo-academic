@@ -8,7 +8,7 @@ weight: 20
 title: Biografia
 design:
   background:
-    color: rgba(0, 0, 0, 0.31)
+    color: rgba(0, 0, 0, 0)
 ---
 Bacharel em Economia (2016) e Analise de Sistemas (2019). MBA em Data Science (2020) e graduando em Estatística (2024*). 
 
