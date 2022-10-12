@@ -5,6 +5,10 @@ avatar_filename: captura-de-tela-de-2022-10-12-12-19-44.png
 bio: "#CRM Analytics #Python #Marketing Automation"
 interests:
   - Artificial Intelligence
+  - Marketing Intelligence
+  - Business Intelligence
+  - Game Theory
+  - Time Series
 social:
   - icon: envelope
     icon_pack: fas
