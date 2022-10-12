@@ -42,5 +42,5 @@ content:
 design:
   columns: "2"
   background:
-    image: 1617213482790.jpeg
+    image: ""
 ---
