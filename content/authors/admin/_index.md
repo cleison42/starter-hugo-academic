@@ -1,6 +1,7 @@
 ---
 title: Cleison Cavalcante
 role: Especialista em CRM Analytics
+avatar_filename: 1617213482790.jpeg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
@@ -27,8 +28,8 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Sicredi
+    url: https://www.sicredi.com.br
 education:
   courses:
     - course: PhD in Artificial Intelligence
