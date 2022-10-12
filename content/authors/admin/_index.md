@@ -2,8 +2,7 @@
 title: Cleison Cavalcante
 role: Especialista em CRM Analytics
 avatar_filename: 1617213482790.jpeg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: "#CRM Analytics #Python #Marketing Automation"
 interests:
   - Artificial Intelligence
   - Computational Linguistics
@@ -12,21 +11,12 @@ social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
-  - icon: graduation-cap
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/cleison42
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/cleison-cavalcante/
 organizations:
   - name: Sicredi
     url: https://www.sicredi.com.br
@@ -49,6 +39,6 @@ email: ""
 ---
 Cleison é especialista em CRM analytics com foco em Salesfoce.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
